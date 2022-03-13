@@ -1,0 +1,34 @@
+body {
+	background:#4c5844;
+	color:#d8ded3;
+	font-family:sans-serif
+}
+
+table {
+	width:100%%;
+	/* line-height:120%%; */
+	font-size:12px
+}
+
+th {
+	border:1px solid;
+	border-color:#889180 #282e22 #282e22 #889180;
+	background:#4c5844;
+	color:#c4b550;
+	padding-left:5px;
+	font:normal;
+	text-align:left
+}
+
+tr {
+	background:#3e4637
+}
+
+.q {
+	border:1px solid;
+	border-color:#282e22 #889180 #889180 #282e22
+}
+
+.b {
+	background:#393e34
+}
